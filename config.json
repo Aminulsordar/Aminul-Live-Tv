@@ -1,11 +1,6 @@
 {
-  "botName": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "botPrefix": "/",
-  "botAdmins": ["6036932600"],
+  "BOT_TOKEN": "8025092969:AAGsGehfwSia-rJrKJlGhB-QIW7-PugUKbs",
+  "botName": "AminulBot",
   "ownerID": "6036932600",
-  "token": "8025092969:AAGsGehfwSia-rJrKJlGhB-QIW7-PugUKbs",
-  "option": {
-    "autoRestart": true,
-    "autoGreet": true
-  }
+  "botAdmins": ["6036932600", "987654321"]
 }
