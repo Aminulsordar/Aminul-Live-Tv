@@ -1,3 +1,5 @@
+# https://api.telegram.org/bot8025092969:AAGsGehfwSia-rJrKJlGhB-QIW7-PugUKbs/setWebhook?url=https://aminul-live-tv-mauve.vercel.app//api/webhook
+
 # 🤖 AMINUL-BOT
 
 A powerful, customizable Telegram bot built with Node.js and the `node-telegram-bot-api` library. Supports real-time chatting, Q&A learning via API, dynamic command loading, admin control, and a built-in prefix system.
